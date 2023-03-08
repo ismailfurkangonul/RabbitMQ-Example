@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gonder", "Gonder\Gonder.csproj", "{60C43A5A-180E-44BB-8474-6ADDC60864F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MesajiYakala", "MesajiYakala\MesajiYakala.csproj", "{79DBB6D8-B254-470C-9424-368A7A340C7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60C43A5A-180E-44BB-8474-6ADDC60864F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60C43A5A-180E-44BB-8474-6ADDC60864F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60C43A5A-180E-44BB-8474-6ADDC60864F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60C43A5A-180E-44BB-8474-6ADDC60864F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79DBB6D8-B254-470C-9424-368A7A340C7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79DBB6D8-B254-470C-9424-368A7A340C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79DBB6D8-B254-470C-9424-368A7A340C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79DBB6D8-B254-470C-9424-368A7A340C7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04CACFFA-86FB-4AE7-91D2-710F6058AE0A}
+	EndGlobalSection
+EndGlobal
